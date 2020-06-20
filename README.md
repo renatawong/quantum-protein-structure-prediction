@@ -9,6 +9,8 @@ The code presented here is partly included in my dissertation "Application of Qu
 
 **_ccrca-nbit_**: implementation of doubly controlled quantum ripple-carry adder for arbitrary sequences of length greater than 3 (modified from Cuccaro et al, https://arxiv.org/abs/quant-ph/0410184, skips the most significant summation bit)
 
+**_4-qubit-Grover-with-ancilla-bit_**: my implementation of Grover's algorithm for 4 qubits that uses one ancilla bit. The marked solution is 1001. 
+
 **_psp-2d-2bit-generate-conformational-space_**: implementation of an algorithm for generating conformational space for sequences of length 2 in two-dimensional model
 
 **_psp-2d-3bit-generation-of-conformational-space_**: implementation of an algorithm for generating conformational space for sequences of length 3 in two-dimensional model
