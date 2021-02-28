@@ -1,5 +1,5 @@
 # quantum-psp
-Task: Developing Python code for my quantum algorithms for protein structure prediction. 
+Task: Developing Python code using IBM Quantum QISKit for my quantum algorithms for protein structure prediction. 
 
 The code presented here is partly included in my dissertation "Application of Quantum Computing to ab initio Protein Structure Prediction" (February, 2020). This project is ongoing. 
 
