@@ -1,7 +1,7 @@
 # quantum-psp
 Task: Developing Python code using IBM Quantum QISKit for my quantum algorithms for protein structure prediction. 
 
-The code presented here is partly included in my dissertation "Application of Quantum Computing to ab initio Protein Structure Prediction" (February, 2020). This project is ongoing. 
+The code presented here is partly included in my dissertation "Application of Quantum Computing to ab initio Protein Structure Prediction" (February, 2020). This project has been completed. As a result, a paper titled "Quantum Speedup for Protein Structure Prediction" (https://ieeexplore.ieee.org/document/9374469) has been published in IEEE Transactions on NanoBioscience in March 2021. 
 
 **_ccrca-circuit-2bit_**: implementation of doubly controlled quantum ripple-carry adder for sequences of length 2
 
