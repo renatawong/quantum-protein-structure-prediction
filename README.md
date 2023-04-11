@@ -1,2 +1,3 @@
+# Quantum algorithm for protein structure prediction
 
-Restarting work on the quantum algorithm for protein structure prediction. This notebook is still incomplete. Updates to follow.  
+This notebook is incomplete and under active development. 
