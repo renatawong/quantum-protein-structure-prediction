@@ -11,4 +11,4 @@ This notebook is incomplete and under active development.
 For simplicity, this notebook requires the user to change manually the variable j specifying the expected energy (= number of hydrophobic-hydrophobic contacts in the lattice). The present value of j is 1 as this is the expected energy level for the amino acid sequence PHPPH (encoded as 01001). 
 
 # Acknowledgement
-This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology). All remaining deficiencies are my own.
+This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology) and Dr. Aoyu Zhang (AWS). All remaining deficiencies are my own.
