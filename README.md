@@ -17,4 +17,4 @@ The code was written by Renata Wong (https://orcid.org/0000-0001-5468-0716).
 This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology) and Dr. Aoyu Zhang (AWS). All remaining deficiencies are my own.
 
 # References
-[1] R. Wong and W-L. Chang, "Fast quantum algorithm for protein structure prediction in hydrophobic-hydrophilic model", Journal of Parallel and Distributed Computing 164:178-190, 2022, DOI: 10.1016/j.jpdc.2022.03.011.
+[1] R. Wong and W-L. Chang, "Fast quantum algorithm for protein structure prediction in hydrophobic-hydrophilic model", Journal of Parallel and Distributed Computing 164:178-190, 2022, DOI: 10.1016/j.jpdc.2022.03.011, link: https://www.sciencedirect.com/science/article/abs/pii/S0743731522000673.
