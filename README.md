@@ -4,7 +4,7 @@ A Qiskit implementation of a quantum algorithm for protein structure prediciton 
 
 
 # Status
-As of now (June 7, 2023), this notebook has been released by AWS on their [Quantum Computing Exploration for Drug Discovery on AWS] platform (https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws). 
+As of now (June 7, 2023), this notebook has been released by AWS on their [Quantum Computing Exploration for Drug Discovery on AWS](https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws) platform. 
 
 # Notes on use
 For simplicity, this notebook requires the user to change manually the variable j specifying the expected energy (= number of hydrophobic-hydrophobic contacts in the lattice). The present value of j is 1 as this is the expected energy level for the amino acid sequence PHPPH (encoded as 01001). 
