@@ -12,7 +12,7 @@ For simplicity, this notebook requires the user to change manually the variable 
 # Acknowledgement
 This notebook is based on the theory described in [1].
 
-The code was written by Renata Wong (https://orcid.org/0000-0001-5468-0716).
+The code was written by Renata Wong (https://renatawong.github.io/).
 
 This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology) and Dr. Aoyu Zhang (AWS). All remaining deficiencies are my own.
 
